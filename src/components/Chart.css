@@ -1,0 +1,28 @@
+.chart-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    position: relative;
+  }
+  
+  .export-buttons {
+    margin-top: 20px;
+  }
+  
+  .export-buttons button {
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .export-buttons button:hover {
+    background-color: #0056b3;
+  }
+  
